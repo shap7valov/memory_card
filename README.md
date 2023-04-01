@@ -1,2 +1,2 @@
 # memory_card
-Card with questions
+Card with questions/quiz
